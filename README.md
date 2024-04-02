@@ -1,3 +1,3 @@
 # juneboku
 
-Hello!
+こんにちは！
